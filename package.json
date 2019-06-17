@@ -1,6 +1,6 @@
 {
-  "name": "esy-vorbis-tools-1.4.0",
-  "version": "0.0.000",
+  "name": "esy-vorbis-tools",
+  "version": "1.4.000",
   "description": "vorbis-tools-1.4.0 packaged for esy",
   "esy": {
     "buildsInSource": true,
@@ -17,6 +17,8 @@
       "make install"
     ]
   },
-  "dependencies": {},
+  "dependencies": {
+    "esy-libogg": "prometheansacrifice/esy-libogg#4b5ac163c4e085cd8ed35ada86bc7e4a66c24bd1"
+  },
   "resolutions": {}
 }
