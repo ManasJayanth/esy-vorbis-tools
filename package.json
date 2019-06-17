@@ -18,7 +18,8 @@
     ]
   },
   "dependencies": {
-    "esy-libogg": "prometheansacrifice/esy-libogg#4b5ac163c4e085cd8ed35ada86bc7e4a66c24bd1"
+    "esy-libogg": "prometheansacrifice/esy-libogg#4b5ac163c4e085cd8ed35ada86bc7e4a66c24bd1",
+    "esy-vorbis": "prometheansacrifice/esy-vorbis#7fe3b73b9173a8715ee0c6752088bccb8a68dee5"
   },
   "resolutions": {}
 }

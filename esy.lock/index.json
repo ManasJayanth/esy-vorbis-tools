@@ -1,5 +1,5 @@
 {
-  "checksum": "49306477f57f69858e5aa656001c4215",
+  "checksum": "28d1dafc8a2b2785aaed10c5d2c7825b",
   "root": "esy-vorbis-tools@link-dev:./package.json",
   "node": {
     "esy-vorbis-tools@link-dev:./package.json": {
@@ -10,6 +10,25 @@
         "type": "link-dev",
         "path": ".",
         "manifest": "package.json"
+      },
+      "overrides": [],
+      "dependencies": [
+        "esy-vorbis@github:prometheansacrifice/esy-vorbis#7fe3b73b9173a8715ee0c6752088bccb8a68dee5@d41d8cd9",
+        "esy-libogg@github:prometheansacrifice/esy-libogg#4b5ac163c4e085cd8ed35ada86bc7e4a66c24bd1@d41d8cd9"
+      ],
+      "devDependencies": []
+    },
+    "esy-vorbis@github:prometheansacrifice/esy-vorbis#7fe3b73b9173a8715ee0c6752088bccb8a68dee5@d41d8cd9": {
+      "id":
+        "esy-vorbis@github:prometheansacrifice/esy-vorbis#7fe3b73b9173a8715ee0c6752088bccb8a68dee5@d41d8cd9",
+      "name": "esy-vorbis",
+      "version":
+        "github:prometheansacrifice/esy-vorbis#7fe3b73b9173a8715ee0c6752088bccb8a68dee5",
+      "source": {
+        "type": "install",
+        "source": [
+          "github:prometheansacrifice/esy-vorbis#7fe3b73b9173a8715ee0c6752088bccb8a68dee5"
+        ]
       },
       "overrides": [],
       "dependencies": [
